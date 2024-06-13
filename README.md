@@ -38,13 +38,18 @@ Install the required libraries using the following commands:
 # Example
 
     
-    python script_name.py sample.pdf output.csv
+*        python script_name.py sample.pdf output.csv
   
-![image](https://github.com/youngaryan/TextExtractor/assets/121689731/c436c604-f0ab-4d21-8a31-17be89fc504f)
+    ![image](https://github.com/youngaryan/TextExtractor/assets/121689731/c436c604-f0ab-4d21-8a31-17be89fc504f)
+    
+    ![image](https://github.com/youngaryan/TextExtractor/assets/121689731/39c1e7b0-b766-4f95-a1ea-3552e11cd915)
+
 
   
-      python script_name.py sample.pdf output.csv should shall
+*      python script_name.py sample.pdf output.csv should shall
    
-![image](https://github.com/youngaryan/TextExtractor/assets/121689731/7970894a-5bfc-45c6-a6cd-be4b01fd1d8e)
+    ![image](https://github.com/youngaryan/TextExtractor/assets/121689731/7970894a-5bfc-45c6-a6cd-be4b01fd1d8e)
+    
+    ![image](https://github.com/youngaryan/TextExtractor/assets/121689731/a23bef33-fb77-43a1-887d-d22bc25cf770)
 
 
