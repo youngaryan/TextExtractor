@@ -16,16 +16,16 @@ The TextExtractor class is designed to extract text from a PDF file, process the
 
 Install the required libraries using the following commands:
 
-    ```bash
+    
     pip install PyMuPDF
     pip install pandas
-    ```
+  
 
 # Usage
 
-    ```bash
+  
     python script_name.py <pdf_path> <output_path> [key_words...]
-    ```
+   
     
 * pdf_path: Path to the PDF file (must be provided).
 * output_path: Path to save the CSV file (must be provided).
@@ -36,14 +36,14 @@ Install the required libraries using the following commands:
 
 # Example
 
-    ```bash
+    
     python script_name.py sample.pdf output.csv
-    ```
-    ![image](https://github.com/youngaryan/TextExtractor/assets/121689731/c436c604-f0ab-4d21-8a31-17be89fc504f)
+  
+![image](https://github.com/youngaryan/TextExtractor/assets/121689731/c436c604-f0ab-4d21-8a31-17be89fc504f)
 
-     ```bash
+  
       python script_name.py sample.pdf output.csv should shall
-      ```
-    ![image](https://github.com/youngaryan/TextExtractor/assets/121689731/7970894a-5bfc-45c6-a6cd-be4b01fd1d8e)
+   
+![image](https://github.com/youngaryan/TextExtractor/assets/121689731/7970894a-5bfc-45c6-a6cd-be4b01fd1d8e)
 
 
