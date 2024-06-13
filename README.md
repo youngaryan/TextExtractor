@@ -25,7 +25,7 @@ Install the required libraries using the following commands:
 # Usage
 
   
-    python script_name.py <pdf_path> <output_path> [key_words...]
+    python main.py <pdf_path> <output_path> [key_words...]
    
     
 * pdf_path: Path to the PDF file (must be provided).
@@ -38,7 +38,7 @@ Install the required libraries using the following commands:
 # Example
 
     
-*        python script_name.py sample.pdf output.csv
+*        python main.py PER.pdf example_output.csv
   
     ![image](https://github.com/youngaryan/TextExtractor/assets/121689731/c436c604-f0ab-4d21-8a31-17be89fc504f)
     
@@ -46,7 +46,7 @@ Install the required libraries using the following commands:
 
 
   
-*      python script_name.py sample.pdf output.csv should shall
+*      python main.py PER.pdf example_output.csv should shall
    
     ![image](https://github.com/youngaryan/TextExtractor/assets/121689731/7970894a-5bfc-45c6-a6cd-be4b01fd1d8e)
     
